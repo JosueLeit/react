@@ -2,10 +2,13 @@
   display: flex;
   align-items: center;
   flex-direction: column;
+  margin-bottom: 2rem;
 }
 
-.container h1{
-  margin:84px 0 24px;
+.logo{
+  margin:84px 0 10px;
+  padding: 2.5rem;
+  width: 30%;
 }
 
 .container input {
@@ -24,7 +27,7 @@
   padding: 24px;
   font-weight: 700;
 
-  background: #EA4C89;
+  background: #FA7508;
   color:#FFFFFF;
   border-radius: 5px;
   margin: 12px 0 84px;
